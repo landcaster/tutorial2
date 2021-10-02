@@ -13,6 +13,7 @@ allowing you to begin development of your very own Lesson and episodes.
 > ## Prerequisites
 >
 > A willingness to learn
+> followed the setup steps for a new lesson found [here](https://carpentries.github.io/lesson-example/) to (just after you finish the import step) 
 {: .prereq}
 
 {% include links.md %}
