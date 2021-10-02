@@ -9,6 +9,7 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME please
-
+<a href="{{ page.root }}/fig/01.png">
+ <img src="{{ page.root }}/fig/01.png" alt="clown fish" />
+</a>
 {% include links.md %}
