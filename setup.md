@@ -1,7 +1,6 @@
 ---
 title: Setup
 ---
-FIXME
-
+No Setup required
 
 {% include links.md %}
